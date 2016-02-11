@@ -1,0 +1,22 @@
+body {
+	background-color: #527a7a;
+}
+
+header {
+	height: 250px;
+	background-position: center;
+
+	text-align: center;
+	vertical-align: middle;
+
+	color: white;
+	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+	font-size: 35px;
+}
+
+#ticker
+{
+    list-style-type: none;
+    width: 740px;
+    margin: 100px auto;
+}
